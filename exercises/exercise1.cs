@@ -1,4 +1,7 @@
-﻿using System;
+﻿// Name: C# exercise01
+// Author: James Smelser
+// Date: July 5, 2019
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
